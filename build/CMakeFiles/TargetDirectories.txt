@@ -1,0 +1,6 @@
+F:/VS_Code/0015_Chat/build/CMakeFiles/Server.dir
+F:/VS_Code/0015_Chat/build/CMakeFiles/Client.dir
+F:/VS_Code/0015_Chat/build/CMakeFiles/package.dir
+F:/VS_Code/0015_Chat/build/CMakeFiles/package_source.dir
+F:/VS_Code/0015_Chat/build/CMakeFiles/edit_cache.dir
+F:/VS_Code/0015_Chat/build/CMakeFiles/rebuild_cache.dir
