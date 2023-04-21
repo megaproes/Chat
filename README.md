@@ -7,4 +7,3 @@ To run the server, it's important to make sure that ports are not blocked, both 
 
 While this program is still a work in progress and has its flaws, it is an attempt to create a functional client-server architecture. Future updates will address these flaws and improve the program's functionality.
 
-Overall, my program is a great starting point for anyone interested in learning about client-server communication, and I hope it will be useful to others who are just starting out in this field!
